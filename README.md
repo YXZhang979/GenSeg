@@ -1,6 +1,9 @@
 # GenSeg
 GenSeg: On Generating Unified Adversary for Segmentation
 
+<img width="641" alt="image" src="https://github.com/YXZhang979/GenSeg/assets/132800100/9adace34-62e6-4b81-8b76-55be7817d6df">
+
+
 # TODO
 - [x] Generator
 
