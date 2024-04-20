@@ -8,7 +8,7 @@ GenSeg: On Generating Unified Adversary for Segmentation
 
 - [x] Guassian Smooth
 
-- [ ] Overall Architecture
+- [x] Overall Architecture
 
 - [ ] Training & Inference
 
