@@ -7,7 +7,7 @@ GenSeg: On Generating Unified Adversary for Segmentation
 # TODO
 - [x] Generator
 
-- [x] Discriminator：ResNet and SwinTransformer in Pytorch
+- [x] Discriminator
 
 - [x] Guassian Smooth
 
